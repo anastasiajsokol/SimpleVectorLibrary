@@ -1,8 +1,3 @@
-"""
-    Impliment cross product
-    Impliment absolute value (sqrt?)
-"""
-
 def stupid_sqrt(x, eps = 0.01):
     if(x < eps):
         return x
