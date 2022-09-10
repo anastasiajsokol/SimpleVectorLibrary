@@ -32,9 +32,19 @@ v2 = Vector(range(4))
 
 Indexing works normally (as would be expected)
 
-```len()```               returns length of vector
+```len()```
 
-```iter()```              returns iterator over vector elements
+- returns length of vector
 
-```str()``` and ```repr()```    return string representation of vector
+```iter()```
+
+- returns iterator over vector elements
+
+```str()``` and ```repr()```
+
+- return string representation of vector
+
+```abs()```
+
+- return absolute value (vector length) of the vector
 
