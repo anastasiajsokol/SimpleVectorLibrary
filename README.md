@@ -48,3 +48,9 @@ Indexing works normally (as would be expected)
 
 - return absolute value (vector length) of the vector
 
+### Member Functions
+
+#### Vector.dot(Vectoresque)
+
+- returns dot product of vector and parameter
+
