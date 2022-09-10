@@ -3,8 +3,9 @@ A vector library for an environment which does not allow importing modules (for 
 
 No type hints for the same reason
 
-[ ] Copy class definition into file (along with sqrt)
-[ ] Change sqrt definition from stupid_sqrt to built-in sqrt if possible
+- [ ] Copy class definition into file (along with sqrt)
+
+- [ ] Change sqrt definition from stupid_sqrt to built-in sqrt if possible
 
 ## Vector
 
