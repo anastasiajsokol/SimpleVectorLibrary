@@ -54,7 +54,7 @@ Indexing works normally (as would be expected)
 
 - returns dot product of vector and parameter
 
-### Vector.cross(Vectoreqsue)
+#### Vector.cross(Vectoreqsue)
 
 - returns the cross product of vector and parameter
     - Note: must both be 3d vectors
