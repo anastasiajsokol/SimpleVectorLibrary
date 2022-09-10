@@ -7,8 +7,8 @@ No type hints for the same reason
 
 ### Constructor
 
-* Pass a 1d list or generator
-** Note: vectors can only be one dimensional
+- Pass a 1d list or generator
+    - **Note: vectors can only be one dimensional**
 
 Example
 
